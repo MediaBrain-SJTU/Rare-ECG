@@ -20,8 +20,9 @@ This is an official implementation of “Towards Equitable Diagnosis of Rare Car
 Download the ckpt from https://drive.google.com/file/d/1E4NuKirypMk\_Uy6iHenkUfP9cNEtvJi7/view?usp=sharing and put it under `model\_template/weights/`
 
 ### Quick Start
-Run test.py for evaluation on the given data
-Run train.py for training
+Run test.py for the evaluation on the given data
+
+Run train.py for the training
 
 If our work is helpful for your research, please consider citing:
 
